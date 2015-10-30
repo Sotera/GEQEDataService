@@ -8,75 +8,75 @@
     ]
   },
   "AccessToken": {
-    "dataSource": "testMongoDB",
+    "dataSource": "MongoDatabase",
     "public": false
   },
   "ACL": {
-    "dataSource": "testMongoDB",
+    "dataSource": "MongoDatabase",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "testMongoDB",
+    "dataSource": "MongoDatabase",
     "public": false
   },
   "Role": {
-    "dataSource": "testMongoDB",
+    "dataSource": "MongoDatabase",
     "public": false
   },
   "product": {
-    "dataSource": "testMongoDB",
+    "dataSource": "MongoDatabase",
     "public": true
   },
   "user": {
-    "dataSource": "testMongoDB",
+    "dataSource": "MongoDatabase",
     "public": true
   },
   "daterange": {
-    "dataSource": "testMongoDB",
+    "dataSource": "MongoDatabase",
     "public": false
   },
   "site": {
-    "dataSource": "testMongoDB",
+    "dataSource": "MongoDatabase",
     "public": false
   },
   "sitelist": {
-    "dataSource": "testMongoDB",
+    "dataSource": "MongoDatabase",
     "public": true
   },
   "dataset": {
-    "dataSource": "testMongoDB",
+    "dataSource": "MongoDatabase",
     "public": true
   },
   "job": {
-    "dataSource": "testMongoDB",
+    "dataSource": "MongoDatabase",
     "public": true
   },
   "bin": {
-    "dataSource": "testMongoDB",
+    "dataSource": "MongoDatabase",
     "public": false,
     "$promise": {},
     "$resolved": true
   },
   "bingroup": {
-    "dataSource": "testMongoDB",
+    "dataSource": "MongoDatabase",
     "public": false,
     "$promise": {},
     "$resolved": true
   },
   "resultset": {
-    "dataSource": "testMongoDB",
+    "dataSource": "MongoDatabase",
     "public": true,
     "$promise": {},
     "$resolved": true
   },
   "clusterStatus":{
-      "dataSource": "testMongoDB",
+      "dataSource": "MongoDatabase",
       "public": true,
       "$promise": {},
       "$resolved": true
   },
   "geqeModel":{
-    "dataSource":"testMongoDB",
+    "dataSource":"MongoDatabase",
     "public":true,
     "$promise": {},
     "$resolved": true
