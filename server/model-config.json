@@ -8,75 +8,75 @@
     ]
   },
   "AccessToken": {
-    "dataSource": "MongoDatabase",
+    "dataSource": "MongoDB",
     "public": false
   },
   "ACL": {
-    "dataSource": "MongoDatabase",
+    "dataSource": "MongoDB",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "MongoDatabase",
+    "dataSource": "MongoDB",
     "public": false
   },
   "Role": {
-    "dataSource": "MongoDatabase",
+    "dataSource": "MongoDB",
     "public": false
   },
   "product": {
-    "dataSource": "MongoDatabase",
+    "dataSource": "MongoDB",
     "public": true
   },
   "user": {
-    "dataSource": "MongoDatabase",
+    "dataSource": "MongoDB",
     "public": true
   },
   "daterange": {
-    "dataSource": "MongoDatabase",
+    "dataSource": "MongoDB",
     "public": false
   },
   "site": {
-    "dataSource": "MongoDatabase",
+    "dataSource": "MongoDB",
     "public": false
   },
   "sitelist": {
-    "dataSource": "MongoDatabase",
+    "dataSource": "MongoDB",
     "public": true
   },
   "dataset": {
-    "dataSource": "MongoDatabase",
+    "dataSource": "MongoDB",
     "public": true
   },
   "job": {
-    "dataSource": "MongoDatabase",
+    "dataSource": "MongoDB",
     "public": true
   },
   "bin": {
-    "dataSource": "MongoDatabase",
+    "dataSource": "MongoDB",
     "public": false,
     "$promise": {},
     "$resolved": true
   },
   "bingroup": {
-    "dataSource": "MongoDatabase",
+    "dataSource": "MongoDB",
     "public": false,
     "$promise": {},
     "$resolved": true
   },
   "resultset": {
-    "dataSource": "MongoDatabase",
+    "dataSource": "MongoDB",
     "public": true,
     "$promise": {},
     "$resolved": true
   },
   "clusterStatus":{
-      "dataSource": "MongoDatabase",
+      "dataSource": "MongoDB",
       "public": true,
       "$promise": {},
       "$resolved": true
   },
   "geqeModel":{
-    "dataSource":"MongoDatabase",
+    "dataSource":"MongoDB",
     "public":true,
     "$promise": {},
     "$resolved": true
