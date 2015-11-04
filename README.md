@@ -8,7 +8,7 @@
 
 ## Install
 
-See README for GEQE backend at Sotera/GEQE to install GEQE backend
+See README at Sotera/GEQE to install GEQE backend
 
 ```
 npm install -g strongloop
