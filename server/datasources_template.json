@@ -6,7 +6,7 @@
   "MongoDB": {
     "host": MONGO_HOST_ADDR,
     "port": MONGO_HOST_PORT,
-    "database": "MongoDatabase",
+    "database": "geqe",
     "name": "MongoDB",
     "connector": "mongodb"
   }
